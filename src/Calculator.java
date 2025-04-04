@@ -10,3 +10,6 @@ public class Calculator {
 //This is a test comment to trigger Jenkins -Logan Soedt
 
 // This is a test.
+
+//new test.
+
