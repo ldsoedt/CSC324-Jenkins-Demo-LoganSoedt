@@ -7,4 +7,6 @@ public class Calculator {
         return a / b;
     }
 }
+//This is a test comment to trigger Jenkins -Logan Soedt
+
 // This is a test.
